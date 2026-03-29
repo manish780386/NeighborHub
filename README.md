@@ -268,5 +268,4 @@ MIT License — feel free to use this project!
 ---
 
 ## 👨‍💻 Author
-
-Made with ❤️ for local communitie
+"Manish Dange"
